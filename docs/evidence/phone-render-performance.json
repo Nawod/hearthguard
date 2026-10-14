@@ -1,0 +1,15 @@
+{
+  "fps": 42.02710748502925,
+  "drawCalls": 135,
+  "triangles": 419393,
+  "renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x000046A3) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "viewport": [
+    390,
+    664
+  ],
+  "pixelRatio": 3,
+  "cpuThrottle": 4,
+  "participants": 8,
+  "vehicles": 8,
+  "additionalBuildings": 48
+}

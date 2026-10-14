@@ -1,0 +1,122 @@
+[
+  {
+    "config": {
+      "mode": "ffa",
+      "difficulty": "hard",
+      "seed": 17,
+      "participants": [
+        {
+          "name": "Seat 0",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 1",
+          "controller": "human"
+        }
+      ]
+    },
+    "ticks": 240,
+    "result": {
+      "winnerFactionId": 0,
+      "draw": false
+    },
+    "method": "Seeded headless human-seat input/reordering and explicit forfeit diagnostics; not a natural PvP combat round"
+  },
+  {
+    "config": {
+      "mode": "ffa",
+      "difficulty": "easy",
+      "seed": 42,
+      "participants": [
+        {
+          "name": "Seat 0",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 1",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 2",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 3",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 4",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 5",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 6",
+          "controller": "human"
+        },
+        {
+          "name": "Seat 7",
+          "controller": "human"
+        }
+      ]
+    },
+    "ticks": 240,
+    "result": {
+      "winnerFactionId": 0,
+      "draw": false
+    },
+    "method": "Seeded headless human-seat input/reordering and explicit forfeit diagnostics; not a natural PvP combat round"
+  },
+  {
+    "config": {
+      "mode": "teams",
+      "difficulty": "medium",
+      "seed": 73,
+      "participants": [
+        {
+          "name": "Seat 0",
+          "controller": "human",
+          "team": 0
+        },
+        {
+          "name": "Seat 1",
+          "controller": "human",
+          "team": 0
+        },
+        {
+          "name": "Seat 2",
+          "controller": "human",
+          "team": 0
+        },
+        {
+          "name": "Seat 3",
+          "controller": "human",
+          "team": 1
+        },
+        {
+          "name": "Seat 4",
+          "controller": "human",
+          "team": 1
+        },
+        {
+          "name": "Seat 5",
+          "controller": "human",
+          "team": 1
+        },
+        {
+          "name": "Seat 6",
+          "controller": "human",
+          "team": 1
+        }
+      ]
+    },
+    "ticks": 240,
+    "result": {
+      "winnerFactionId": 0,
+      "draw": false
+    },
+    "method": "Seeded headless human-seat input/reordering and explicit forfeit diagnostics; not a natural PvP combat round"
+  }
+]

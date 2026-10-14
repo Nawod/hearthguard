@@ -1,0 +1,26 @@
+{
+  "config": {
+    "mode": "single",
+    "difficulty": "hard",
+    "seed": 1476608682,
+    "participants": [
+      {
+        "name": "Traveler",
+        "controller": "human"
+      },
+      {
+        "name": "Ember stranger",
+        "controller": "ai"
+      }
+    ]
+  },
+  "result": {
+    "winnerFactionId": 1,
+    "draw": false
+  },
+  "tick": 1814,
+  "humanLives": 0,
+  "humanHP": -5,
+  "aiLives": 1,
+  "method": "Browser input automation, unmodified empty start; read-only saves for observation"
+}

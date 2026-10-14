@@ -1,0 +1,26 @@
+{
+  "hardware": {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
+    "logicalCores": 12,
+    "memoryGB": 16,
+    "platform": "win32"
+  },
+  "scenario": {
+    "players": 8,
+    "vehicles": 8,
+    "operatedHorses": 4,
+    "operatedCatapults": 4,
+    "traps": 8,
+    "entities": 498,
+    "initialProjectiles": 80,
+    "gameplayHz": 30,
+    "physicsHz": 60,
+    "snapshotsHz": 15
+  },
+  "simulation": {
+    "meanMs": 6.847282499999995,
+    "p95Ms": 17.756400000000212,
+    "maxMs": 43.78409999999985
+  },
+  "steadySnapshotBytes": 26914
+}

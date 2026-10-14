@@ -1,0 +1,49 @@
+{
+  "seed": 42,
+  "difficulty": "medium",
+  "ticks": 9523,
+  "simulationSeconds": 317.43333333333334,
+  "result": {
+    "winnerFactionId": 1,
+    "draw": false
+  },
+  "ai": {
+    "hp": 100,
+    "lives": 2,
+    "weapons": [
+      "sword",
+      "bow"
+    ],
+    "tools": 1,
+    "armor": 1,
+    "phase": "raid"
+  },
+  "buildings": [
+    {
+      "type": "townhall",
+      "progress": 1
+    },
+    {
+      "type": "armory",
+      "progress": 1
+    },
+    {
+      "type": "farm",
+      "progress": 1
+    },
+    {
+      "type": "tower",
+      "progress": 1
+    },
+    {
+      "type": "smithy",
+      "progress": 1
+    }
+  ],
+  "stock": {
+    "food": 2.799999999999983,
+    "wood": 2.0000000000000595,
+    "stone": 1.9999999999997513,
+    "ore": 2.9999999999999467
+  }
+}

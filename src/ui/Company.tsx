@@ -1,0 +1,2 @@
+import type {PlayerView} from '../game/types';
+export function Company({view}:{view:PlayerView}){const self=view.players.find(p=>p.id===view.playerId),members=view.players.filter(p=>p.faction===self?.faction);if(members.length<2)return null;return <details className="company"><summary>City company · {members.length} travelers</summary><div>{members.map(p=><p key={p.id}><b>{p.name}</b><span>{p.eliminated?'Fallen':p.dead?`Returning · ${Math.max(0,Math.ceil((p.respawnAt-view.tick)/30))}s`:`${Math.ceil(p.hp-1e-6)} health · ${p.lives} lives`}</span></p>)}</div></details>;}

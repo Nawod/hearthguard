@@ -1,0 +1,5 @@
+{
+  "testedOrigin": "http://192.168.0.205:5198",
+  "separateBrowserContexts": true,
+  "physicalWifiDevices": false
+}
